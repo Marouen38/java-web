@@ -1,0 +1,16 @@
+
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    padding: 50px 0;
+    letter-spacing: 5px;
+    font-weight: 900;
+    color: #00daff;
+}
+form{
+    width: 24%;
+    display: block;
+    margin: 0 auto;
+}

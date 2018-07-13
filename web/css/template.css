@@ -1,0 +1,21 @@
+.breadcrumb{
+    background-color: #006666;
+ 
+}
+h1{
+    background-color: #00cccc;
+
+    
+     text-align: center;
+}
+li{
+    padding-right: 40px;
+}
+#contenu{
+    background-color:#ffffff;
+    
+}
+footer{
+    background-color:  #99ffcc;
+    text-align: center;
+}
